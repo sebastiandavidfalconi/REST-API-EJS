@@ -2,6 +2,7 @@
 
 Este repositorio contiene un proyecto de ejemplo que muestra el uso del stack MERN. El stack MERN está compuesto por las siguientes tecnologías: MongoDB, Express.js, React.js y Node.js. En este proyecto, construiremos una aplicación web simple utilizando estas tecnologías.
 
+Este código es basado por el desarrollado por Fazt Web, con algunas modificaciones propias.
 ## Instalación
 
 Para ejecutar este proyecto de forma local, asegúrate de tener los siguientes requisitos previos instalados:
